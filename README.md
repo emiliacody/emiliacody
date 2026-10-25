@@ -1,4 +1,4 @@
-# Hi, I'm Emilia (Mia) Cody
+# Hi, I'm Emilia (Mia) Cody!
 
 I'm a senior at **Carnegie Mellon University** studying **Statistics & Machine Learning**, with a minor in **Mathematics**. I like building useful software, working through challenging problems, and making technical ideas easier to understand.
 
@@ -20,6 +20,6 @@ I'm graduating in **May 2027** and exploring new-grad opportunities in **softwar
 **Data:** pandas · NumPy · statistical modeling  
 **Engineering experience:** Git · GitLab CI/CD · Temporal · Argo Workflows · Datadog
 
-Outside of school and work, you'll find me playing tennis, cooking, playing violin, or training for a half marathon.
+Outside of school and work, I love to tennis, cook, play violin, and run.
 
 [LinkedIn](https://www.linkedin.com/in/emiliacody/) · [Email](mailto:ecody@andrew.cmu.edu)
