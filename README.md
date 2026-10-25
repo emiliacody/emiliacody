@@ -1,4 +1,4 @@
-# Hi, I'm Emilia (Mia) Cody 👋
+# Hi, I'm Emilia (Mia) Cody
 
 I'm a senior at **Carnegie Mellon University** studying **Statistics & Machine Learning**, with a minor in **Mathematics**. I like building useful software, working through challenging problems, and making technical ideas easier to understand.
 
